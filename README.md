@@ -47,4 +47,8 @@ A simple machine learning project that classifies SMS or email messages as **Spa
 ---
 
 ## 📦 Folder Structure
+.
+├── spam.csv
+├── streamlit_spam_detector.py
+├── README.md
 
