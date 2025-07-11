@@ -9,7 +9,7 @@ Original file is located at
 Step 1: Install Required Libraries
 """
 
-!pip install scikit-learn pandas --quiet
+pip install scikit‑learn pandas
 
 """Step 2: Import Libraries"""
 
