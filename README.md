@@ -6,9 +6,10 @@ A simple machine learning project that classifies SMS or email messages as **Spa
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app on Streamlit](https://spamemaildetection-3ssx2cdjnam3e4h27ydrpe.streamlit.app/)
+👉 [Click here to try the app on Streamlit]
+(https://spamemaildetection-3ssx2cdjnam3e4h27ydrpe.streamlit.app/)
 
-> Replace the link with your actual deployed app URL.
+
 
 ---
 
